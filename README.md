@@ -2,8 +2,21 @@
 ## 👨‍💻 About Me  <br><br>- 🔭 I’m a **Software Developer** with 2 years of industry experience building full-stack applications.  <br>- 💻 Skilled in the **MERN stack** (React.js, Node.js, Express.js, MongoDB) with a focus on user-centric frontend design and robust API integrations.  <br>- 🎓 Completed my **MSc in Advanced Computer Science** at the University of Birmingham, specializing in **Machine Learning** and **AI for cybersecurity**.  <br>- 📊 My dissertation involved developing **lightweight Transformer models in PyTorch** for real-time anomaly detection in **Industrial Control Systems (ICS)**, achieving **state-of-the-art results**.  <br>- 🚀 Interested in the intersection of **secure systems, AI applications, and high-performance web development**.  <br>- 🌱 Always learning and exploring ways to bridge research-driven innovation with practical engineering.  <br>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyas-murthy-60b45b1a9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyasmurthy74@gmail.com) 
+## 🌐 Connect with Me  
+
+<p align="left">
+  <a href="https://linkedin.com/in/shreyas-murthy-60b45b1a9" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+  </a>
+  <a href="mailto:shreyasmurthy74@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" width="40" height="40"/>
+  </a>
+  <a href="https://leetcode.com/u/shreyasmurthy74/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" width="40" height="40"/>
+</a>
+
+</p>
+
 
 # 💻 Tech Stack:
 
